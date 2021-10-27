@@ -2,4 +2,4 @@ I'm a computer and data scientist who can comfortably explore dataset with vario
 
 ## Let know each other,
 Follow me on <kbd><strong><a href="https://twitter.com/ComptSavvy">Twitter</a></strong></kbd> <br />
-Connect with me on <kbd><strong><a href="https://www.linkedin.com/in/olusola-timothy-ogundepo/">LinkedIn</a></strong></kbd>
+Connect with me on <kbd><strong><a href="https://www.linkedin.com/in/comsavvy/">LinkedIn</a></strong></kbd>
