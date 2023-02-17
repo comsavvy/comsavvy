@@ -4,6 +4,6 @@ I use various learning platforms, such as <a href="https://coursera.org/">Course
 
 ## Let know each other 😀
 
-Follow me on <kbd><strong><a href="https://twitter.com/ComptSavvy">Twitter</a></strong></kbd> <br />
+Follow me on <kbd><strong><a href="https://twitter.com/comsavvy_ogp">Twitter</a></strong></kbd> <br />
 Connect with me on <kbd><strong><a href="https://www.linkedin.com/in/comsavvy/">LinkedIn</a></strong></kbd> <br />
 Follow me on <kbd><strong><a href="https://www.instagram.com/comsavvy/">Instagram</a></strong></kbd>
