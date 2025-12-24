@@ -1,45 +1,138 @@
-# Welcome to Comsavvy GitHub Profile! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
-<h4>I am a proficient data scientist and an expert user of Python programming for both IT automation and data analysis. I specialise in exploratory data analysis and utilise advanced features of MS Excel, Power BI, and Tableau to create interactive dashboards. My proficiency in machine learning encompasses both theoretical knowledge and practical implementation. I am committed to collaborative teamwork and actively contribute to project success. Continuous professional growth is important to me, and I leverage platforms such as <a href="https://coursera.org/">Coursera</a>, <a href="https://www.datacamp.com/">Datacamp</a>, <a href="https://www.udemy.com/">Udemy</a>, <a href="https://www.youtube.com">YouTube</a>, <a href="https://realpython.com/">RealPython</a>, <a href="http://medium.com/">Medium</a>, <a href="https://www.geeksforgeeks.org/">GeekForGeek</a>, and <a href="https://www.codechalleng.es/bites/">Pybites</a> for professional development.</h4>
+# Welcome to Olusola's GitHub Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 
-- 💬 Ask me about **Python, Data Analysis & IT Automation**
+I'm a **data scientist** with over **5 years of experience** specializing in **statistical machine learning**, **data analysis**, and **business intelligence**. Currently pursuing my Master's in Mathematical Sciences at the African Institute for Mathematical Sciences (AIMS) in Rwanda, where I focus on the theoretical foundations of machine learning and statistical computing.
 
-- 📫 How to reach me **olusolaogundepo@gmail.com**
+I bridge rigorous mathematical theory with practical application—leveraging Python, R, and modern ML frameworks to build scalable data solutions, predictive models, and interactive dashboards that drive strategic decision-making.
 
-- ⚡ Fun fact **I enjoy coding and watching UFC fight.**
+### 🔬 What I Do
+- **Machine Learning & AI**: Deep learning, NLP, predictive modeling, and model evaluation
+- **Business Intelligence**: Interactive dashboards with Power BI, Tableau, and advanced Excel analytics
+- **Statistical Analysis**: Hypothesis testing, forecasting, and experimental design
+- **Data Engineering**: ETL pipelines, automation, and database management with SQL
+- **Mentorship**: Actively supporting aspiring data scientists through workshops and community engagement
 
-<h3 align="left">Connect with me:</h3>
+### 💬 Ask Me About
+Python • Machine Learning • Statistical Analysis • Data Visualization • Power BI • Deep Learning • Automation
+
+### 📫 Get In Touch
+**Email**: olusolaogundepo@gmail.com
+
+### ⚡ Fun Fact
+I enjoy coding, watching UFC fights, and diving deep into the mathematical foundations of AI!
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
-  <a href="https://twitter.com/comsavvy_ogp" target="blank"><img align="center" src="https://toppng.com/public/uploads/preview/twitter-x-icon-logo-116902890413xbfexhf8l.webp" alt="comsavvy_ogp" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/comsavvy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="comsavvy" height="30" width="40" /></a>
-  <a href="https://fb.com/comsavvy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="comsavvy" height="30" width="40" /></a>
-  <a href="https://instagram.com/comsavvy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="comsavvy" height="30" width="40" /></a>
-  <a href="https://youtube.com/@comsavvy_ogp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="comsavvy_ogp" height="30" width="40" /></a>
+  <a href="https://twitter.com/comsavvy_ogp" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/comsavvy" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/comsavvy" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/comsavvy" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://youtube.com/@comsavvy_ogp" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
 </p>
-<a href="https://github.com/comsavvy/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=comsavvy&count_private=true&show_icons=true&theme=radical"/>
-</a>
-<br />
-<p>
-<h3 align="left">Languages and Tools:</h3>
+
+---
+
+## 📊 GitHub Stats
 <p align="left">
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-   </a> 
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="45" height="37"/> 
-   </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=comsavvy&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+### Programming Languages
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" alt="bash" width="40" height="40"/> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="45" height="45"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png" alt="mssql" width="70" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>   </a>
-  </p>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="45" height="45"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  </a>
+</p>
+
+### Machine Learning & Data Science
+<p align="left">
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
+  </a>
+</p>
+
+### Business Intelligence & Visualization
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://res.cdn.office.net/files/fabric-cdn-prod_20251117.001/assets/brand-icons/product/svg/excel_16x1.svg" alt="Excel" width="45" height="45"/>
+  </a>
+</p>
+
+### Development Tools
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+## 📚 Continuous Learning
+I actively enhance my skills through:
+- [Coursera](https://coursera.org/)
+- [DataCamp](https://www.datacamp.com/)
+- [Udemy](https://www.udemy.com/)
+- [Real Python](https://realpython.com/)
+- [Medium](http://medium.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Pybites](https://www.codechalleng.es/bites/)
+
+---
+
+<p align="center">
+  <i>Let's collaborate on exciting data science projects! Feel free to reach out.</i>
 </p>
